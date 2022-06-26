@@ -1,0 +1,3 @@
+#! /bin/bash
+
+i2cdump -y -r 0xF7-0xFE 1 0x76

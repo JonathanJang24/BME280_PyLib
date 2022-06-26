@@ -1,3 +1,4 @@
+#! /bin/bash
 
 # show all available buses
 dmesg | grep i2c
